@@ -1,45 +1,43 @@
 # SQUADMATE 🍿
 
-### Better collaboration. Less back-and-forth.
+### Good work starts with your people.
 
-**SQUADMATE** is a workspace for agencies, clients, contractors, and creative teams to turn ideas into clear requests and move work forward together.
+**SQUADMATE helps work move between people and departments.**
 
-We believe great software should feel **human, intuitive, and a little more fun**.
+We're building **Squady**, a companion that pops up when useful—helping people clarify a need, keep the right context and know what happens next.
 
-[**Meet SQUADMATE →**](https://squadmate.io) · [**Play with Squady →**](https://lab.squadmate.io)
+## Less chasing. Clearer next steps.
 
-## What we're building
+Sales makes a commitment. Product needs the details. Marketing needs to know when it's ready. Somewhere between conversations, documents and task boards, context gets lost and ownership becomes unclear.
 
-**One platform. Different experiences.**
+SQUADMATE focuses on that space between people: the questions, handoffs and follow-through that keep work moving.
 
-- **For agencies:** a branded home for client relationships, requests, collaboration, and delivery.
-- **For clients:** a simpler way to explain what they need, share feedback, and know what's happening.
-- **For contractors:** clear assignments, context, and a better way to work together.
-- **For everyone:** **Squady**, our friendly contextual companion, designed to help turn a half-formed idea into a useful next step.
+## Squady and the Mates
 
-Our vision is a product that's powerful behind the scenes and refreshingly simple in front of people.
+**Squady** stays one familiar companion throughout the working day. The **Mates** bring focused perspectives when needed, without asking people to start over.
 
-## Inside Squady Lab
+Our direction is a desktop companion that works alongside the tools teams already use, with an optional shared workspace for coordinating delivery. Departments and employees are central to that vision; access for clients, agencies and external partners is optional.
 
-Meet Squady, the little sidekick with a big personality.
+The experience should feel simple, considerate and human—with room for a little personality, and the ability to stay quiet when people need to focus.
 
-**[lab.squadmate.io](https://lab.squadmate.io)** is our public playground for product and interaction experiments:
+## Where we are today
 
-- 🍿 **Squady Reacts** — playful moods, movement, and tiny surprises.
-- ✨ **Squady Helps** — a browser-only simulation that turns an idea into an editable creative brief.
+Our working web foundation grew from an agency delivery use case at ASK WOLF. It includes shared workflows and an evolving Squady interface.
 
-These prototypes are for exploration. They aren't connected to production accounts, private data, or payment systems.
+Native desktop Squady, broader integrations and corporate department workflows are in development planning. Public interaction demos are prototypes, not proof of a released desktop app or validated corporate results.
 
-**[Explore the public lab repository →](https://github.com/itsevawolf/squady-lab)**
+## Explore Squady Lab
 
-## Built thoughtfully
+[**Squady Lab →**](https://lab.squadmate.io) is our public playground for moods, movement and guided brief experiments. Its browser simulations are separate from production accounts, private customer data and payments.
 
-We share selected experiments and product ideas publicly, while keeping commercial application code, production infrastructure, credentials, and customer information private.
+[Explore the public lab repository](https://github.com/itsevawolf/squady-lab)
 
-This organization also contains **private legacy Angular, PHP, and Docker repositories** from an earlier generation of SQUADMATE. They are historical—not the current SQUADMATE OS deployment.
+## Built with clear boundaries
+
+Our product principles are deliberate context sharing, clear permissions and human confirmation before work is committed or shared. Private companion conversations should remain private; they are not employee performance reports.
+
+We share selected experiments publicly. Commercial application code, credentials and customer information remain private. Older repositories in this organization preserve earlier generations of SQUADMATE.
 
 ---
 
-**[Website](https://squadmate.io)** · **[Squady Lab](https://lab.squadmate.io)** · **[Founder — Eva Wolf](https://github.com/itsevawolf)**
-
-*Work together better. Make room for the fun stuff.*
+[Website](https://squadmate.io) · [Squady Lab](https://lab.squadmate.io) · [Founder — Eva Wolf](https://github.com/itsevawolf)
